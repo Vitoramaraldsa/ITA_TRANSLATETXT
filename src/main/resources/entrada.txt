@@ -1,0 +1,6 @@
+Loiro,Blond,Bonito,pretty,Legal,nice,Diamante,Diamond,Principe,Prince,
+Prisioneiro,Prisoner,Calice,Cup,Fogo,Fire,Reliquias,Relics,Morte,Death,
+Pedra,Stone,Filosofia,Philosophy,Jamais,Never,Alvo,Target,Tiro,Shot,
+Poder,Power,Ordem,Order,Fenix,Phoenix,Felicidade,Happiness,Amor,Love,
+Leal,Loyal,Demais,Too Mutch,Boa,Good,Amigo,Friend,Trilogia,Trilogy,Gordo,
+Fat,Tio,Uncle,Sobrinho,Nephew,Afilhado,Godson,Mestra,Master
